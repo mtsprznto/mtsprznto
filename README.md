@@ -1,7 +1,11 @@
-![for git](https://github.com/lllit/lllit/assets/106929604/39c7c395-761d-4495-bc58-ef1d0f4362c7)
+### Hi👋👨‍💻🎨📽️
 
-### Hi, I'm Matias👋👨‍💻🎨📽️
-![from git](https://github.com/lllit/lllit/assets/106929604/04f0fdba-76d2-47df-ad96-262a797fac04)
+
+![bann](https://github.com/lllit/lllit/assets/106929604/110db89f-0a82-42f7-903b-a5028c4c5a52)
+
+<h1 align="center">I'm Matias👋👨‍💻🎨📽️</h1>
+
+![bann2](https://github.com/lllit/lllit/assets/106929604/ce43f919-ad42-4a61-8626-14dd741b7f80)
 
 <a href="https://www.instagram.com/lllit_3/">
   <img align="left" alt="LLLIT Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -16,7 +20,7 @@
   <img align="left" alt="LLLIT Spotify" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
 
-<img align='right' src='https://i.giphy.com/xThuWaMQyZlsnkMRnW.webp' width='66"'>
+<img align='right' src='https://i.giphy.com/xThuWaMQyZlsnkMRnW.webp' width='66'>
 <br>
 
 
@@ -44,16 +48,4 @@ const lllit = {
 
 <!--
 **lllit/lllit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
