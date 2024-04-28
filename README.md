@@ -26,7 +26,7 @@
 
 
 
-## About me in code
+## About me in code 💻
 
 ```js
 const lllit = {
