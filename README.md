@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+![bcpx](https://github.com/lllit/lllit/assets/106929604/1ed4b074-3ea1-426e-adf2-73b2b2c1cabd)
+```
+const lllit = {
+  pronouns: "He" / "Him"
+  code: [Python, Java]
+}
+```
 <!--
 **lllit/lllit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
