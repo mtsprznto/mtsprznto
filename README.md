@@ -27,7 +27,7 @@
 
 
 ## About me in code 💻
-
+![ban](https://github.com/lllit/lllit/assets/106929604/db00501a-9989-4c60-9277-25a5d7f26f03)
 ```js
 const lllit = {
   pronouns: "He" / "Him"
@@ -39,13 +39,20 @@ const lllit = {
 
 
 ## You can find 🌎:
+![ban3](https://github.com/lllit/lllit/assets/106929604/d998019f-0cfb-4d88-ad30-6e47222d811b)
+
 - Toda mi musica en mi [bandcamp](https://lllit3.bandcamp.com/) 💿
   - Ultimo album: [Broken Abst by LLLIT](https://lllit3.bandcamp.com/album/broken-abst)
+
 - Dj set y preview exclusivos en [Soundcloud](https://soundcloud.com/lllit_3) 🎵
+
 - Algunas canciones exclusivas en [Spotify](https://open.spotify.com/intl-es/artist/0oL7mgftYGFe5wWq0b9G4g?si=T4kfrAJfSOKdfSvczIIcbQ) 🎵
+
 - Videos, experimentos visuales en [Youtube](https://www.youtube.com/@lllit) 📹
+
 - Contenido para celulares [Instagram](https://www.instagram.com/lllit_3/) 📱
 
+![ban3](https://github.com/lllit/lllit/assets/106929604/79111736-04a2-49a5-aef2-b5485957ed85)
 <!--
 **lllit/lllit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
