@@ -5,7 +5,7 @@
 
 <h1 align="center">I'm Matias👋👨‍💻🎨📽️</h1>
 
-![bann2](https://github.com/lllit/lllit/assets/106929604/ce43f919-ad42-4a61-8626-14dd741b7f80)
+![ban4](https://github.com/lllit/lllit/assets/106929604/acbbf547-1429-4b71-96e9-96b3a7f8526c)
 
 <a href="https://www.instagram.com/lllit_3/">
   <img align="left" alt="LLLIT Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
