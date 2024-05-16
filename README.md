@@ -26,16 +26,9 @@
 
 
 
-## About me in code 💻
+## LINKS 💻
 ![ban](https://github.com/lllit/lllit/assets/106929604/db00501a-9989-4c60-9277-25a5d7f26f03)
-```js
-const LLLIT = {
-  pronouns: "He" / "Him"
-  technologies: ['Touchdesigner', 'Ableton Live']
-  passions: ['Music Producer', 'Visual programmer', 'Programmer']
-  code: [Python, Java]
-}
-```
+lllit.reflex.run
 
 
 ## You can find 🌎:
