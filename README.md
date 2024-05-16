@@ -27,7 +27,7 @@
 
 
 ## LINKS 💻
-[Links](lllit.reflex.run)
+[LLLIT links](https://lllit.reflex.run/)
 ![ban](https://github.com/lllit/lllit/assets/106929604/db00501a-9989-4c60-9277-25a5d7f26f03)
 
 
