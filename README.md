@@ -35,16 +35,16 @@
 ## You can find 🌎:
 ![ban3](https://github.com/lllit/lllit/assets/106929604/d998019f-0cfb-4d88-ad30-6e47222d811b)
 
-- Toda mi musica en mi [bandcamp](https://lllit3.bandcamp.com/) 💿
-  - Ultimo album: [Broken Abst by LLLIT](https://lllit3.bandcamp.com/album/broken-abst)
+💿 [bandcamp](https://lllit3.bandcamp.com/) 
+  - [Broken Abst by LLLIT](https://lllit3.bandcamp.com/album/broken-abst)
 
-- Dj set y preview exclusivos en [Soundcloud](https://soundcloud.com/lllit_3) 🎵
+🎵 [Soundcloud](https://soundcloud.com/lllit_3) 
 
-- Algunas canciones exclusivas en [Spotify](https://open.spotify.com/intl-es/artist/0oL7mgftYGFe5wWq0b9G4g?si=T4kfrAJfSOKdfSvczIIcbQ) 🎵
+🎵 [Spotify](https://open.spotify.com/intl-es/artist/0oL7mgftYGFe5wWq0b9G4g?si=T4kfrAJfSOKdfSvczIIcbQ) 
 
-- Videos, experimentos visuales en [Youtube](https://www.youtube.com/@lllit) 📹
+📹 [Youtube](https://www.youtube.com/@lllit) 
 
-- Contenido para celulares [Instagram](https://www.instagram.com/lllit_3/) 📱
+📱 [Instagram](https://www.instagram.com/lllit_3/) 
 
 ![ban3](https://github.com/lllit/lllit/assets/106929604/79111736-04a2-49a5-aef2-b5485957ed85)
 <!--
