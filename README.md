@@ -26,14 +26,16 @@
 
 
 
-## LINKS 💻
-[LLLIT links](https://lllit.reflex.run/)
+
 ![ban](https://github.com/lllit/lllit/assets/106929604/db00501a-9989-4c60-9277-25a5d7f26f03)
 
 
 
 ## You can find 🌎:
 ![ban3](https://github.com/lllit/lllit/assets/106929604/d998019f-0cfb-4d88-ad30-6e47222d811b)
+
+## LINKS 💻
+✨ [LLLIT links](https://lllit.reflex.run/) ✨
 
 💿 [bandcamp](https://lllit3.bandcamp.com/) 
   - [Broken Abst by LLLIT](https://lllit3.bandcamp.com/album/broken-abst)
