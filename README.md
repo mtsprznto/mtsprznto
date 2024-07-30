@@ -35,7 +35,7 @@
 ![ban3](https://github.com/lllit/lllit/assets/106929604/d998019f-0cfb-4d88-ad30-6e47222d811b)
 
 ## LINKS 💻
-✨ [LLLIT links](https://lllit.reflex.run/) ✨
+<p align="center">✨[LLLIT links](https://lllit.reflex.run/) ✨</p>
 
 💿 [bandcamp](https://lllit3.bandcamp.com/) 
   - [Broken Abst by LLLIT](https://lllit3.bandcamp.com/album/broken-abst)
