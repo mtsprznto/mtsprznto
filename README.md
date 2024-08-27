@@ -37,8 +37,7 @@
 ## LINKS 💻
 <p align="center">✨ https://lllit.reflex.run/ ✨</p>
 
-💿 [bandcamp](https://lllit3.bandcamp.com/) 
-  - [Broken Abst by LLLIT](https://lllit3.bandcamp.com/album/broken-abst)
+💿 [Bandcamp](https://lllit3.bandcamp.com/) 
 
 🎵 [Soundcloud](https://soundcloud.com/lllit_3) 
 
