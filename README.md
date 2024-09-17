@@ -34,8 +34,24 @@
 ## You can find 🌎:
 ![ban3](https://github.com/lllit/lllit/assets/106929604/d998019f-0cfb-4d88-ad30-6e47222d811b)
 
+## 💻 Estudiando programacion :]
+### Estudiando...
+- 🔎 JAVA
+- 🔎 PYTHON
+- 🔎 C# .NET
+
+- ⚗️ SQL SERVER
+- ⚗️ ORACLE SQL
+
+
+
+
+
+
+
+
 ## LINKS 💻
-<p align="center">✨ https://lllit.reflex.run/ ✨</p>
+<p align="center">✨ https://lllit.reflex.run/ [Bandcamp](https://lllit3.bandcamp.com/)  ✨</p>
 
 💿 [Bandcamp](https://lllit3.bandcamp.com/) 
 
