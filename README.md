@@ -51,8 +51,6 @@
 
 ## You can find 🌎:
 
-<p align="center">✨ https://lllit.reflex.run/ [Bandcamp](https://lllit3.bandcamp.com/)  ✨</p>
-
 💿 [Bandcamp](https://lllit3.bandcamp.com/) 
 
 🎵 [Soundcloud](https://soundcloud.com/lllit_3) 
