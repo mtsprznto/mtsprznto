@@ -36,12 +36,16 @@
 
 ## 💻 Estudiando programacion :]
 ### Estudiando...
-- 🔎 JAVA
-- 🔎 PYTHON
 - 🔎 C# .NET
+- 🔎 PYTHON
+- 🔎 JAVA
+
 
 - ⚗️ SQL SERVER
 - ⚗️ ORACLE SQL
+
+- - ⚗️ GITHUB
+  - ⚗️ VIRTUAL VOX
 
 
 
