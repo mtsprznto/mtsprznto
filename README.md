@@ -45,7 +45,7 @@
 - ⚗️ ORACLE SQL
 _________
   - ⚗️ GITHUB
-  - ⚗️ VIRTUAL VOX
+  - ⚗️ VIRTUALVOX
 
 
 
