@@ -43,8 +43,8 @@
 
 - ⚗️ SQL SERVER
 - ⚗️ ORACLE SQL
-
-- - ⚗️ GITHUB
+_________
+  - ⚗️ GITHUB
   - ⚗️ VIRTUAL VOX
 
 
