@@ -36,8 +36,8 @@
 
 ## 💻 Estudiando programacion :]
 ### Estudiando...
-- 🔎 C# .NET
 - 🔎 PYTHON
+- 🔎 C# .NET
 - 🔎 JAVA
 
 
