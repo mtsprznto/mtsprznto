@@ -37,8 +37,6 @@
 ## 💻 Estudiando programacion :]
 ### Estudiando...
 - 🔎 PYTHON
-- 🔎 C# .NET
-- 🔎 JAVA
 
 
 - ⚗️ SQL SERVER
