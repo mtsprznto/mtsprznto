@@ -37,7 +37,8 @@
 ## 💻 Estudiando programacion :]
 ### Estudiando...
 - 🔎 PYTHON
-
+- 🔎 DART
+- 🔎 PHP
 
 - ⚗️ SQL SERVER
 - ⚗️ ORACLE SQL
