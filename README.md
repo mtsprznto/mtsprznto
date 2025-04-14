@@ -35,13 +35,29 @@
 ![ban3](https://github.com/lllit/lllit/assets/106929604/d998019f-0cfb-4d88-ad30-6e47222d811b)
 
 ## 💻 Estudiando programacion :]
-### Estudiando...
+
 - 🔎 PYTHON
+
 - 🔎 DART
+  
 - 🔎 PHP
 
+
+
+- 🔎 HTML
+- 🖼️ CSS
+- 🔎 JavaScript
+- 🔎 REACT
+- 🔎 ASTRO
+- 🖼️ Tailwind
+
+- 🤖 AWS
+- 🤖 BASH
+  
 - ⚗️ SQL SERVER
 - ⚗️ ORACLE SQL
+- ⚗️ MYSQL
+- ⚗️ SUPABASE
 _________
   - ⚗️ GITHUB
   - ⚗️ VIRTUALVOX
