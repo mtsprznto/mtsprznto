@@ -36,31 +36,46 @@
 
 ## 💻 Estudiando programacion :]
 
-- 🔎 PYTHON
+<div align="start">
+  <div style="text-align: right;">
+    🔎 PYTHON<br>
+    🔎 DART<br>
+    🔎 PHP
+  </div>
 
-- 🔎 DART
-  
-- 🔎 PHP
+
+  <div>
+    🔎 HTML<br>
+    🖼️ CSS<br>
+    🔎 JavaScript<br>
+    🔎 REACT<br>
+    🔎 ASTRO<br>
+    🖼️ Tailwind
+  </div>
+
+  <div>
+    🤖 AWS<br>
+    🤖 BASH
+  </div>
+
+  <div>
+    ⚗️ SQL SERVER<br>
+    ⚗️ ORACLE SQL<br>
+    ⚗️ MYSQL<br>
+    ⚗️ SUPABASE
+  </div>
+
+  <hr style="width: 50%;">
+
+  <div>
+    ⚗️ GITHUB<br>
+    ⚗️ VIRTUALVOX
+  </div>
+</div>
 
 
+  <hr>
 
-- 🔎 HTML
-- 🖼️ CSS
-- 🔎 JavaScript
-- 🔎 REACT
-- 🔎 ASTRO
-- 🖼️ Tailwind
-
-- 🤖 AWS
-- 🤖 BASH
-  
-- ⚗️ SQL SERVER
-- ⚗️ ORACLE SQL
-- ⚗️ MYSQL
-- ⚗️ SUPABASE
-_________
-  - ⚗️ GITHUB
-  - ⚗️ VIRTUALVOX
 
 ~~~
 ⚗️ TOUCHDESIGNER
