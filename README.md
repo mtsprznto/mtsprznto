@@ -36,45 +36,30 @@
 
 ## 💻 Estudiando programacion :]
 
-<div align="start">
-  <div style="text-align: right;">
-    🔎 PYTHON<br>
-    🔎 DART<br>
+
+    🔎 PYTHON
+    🔎 DART
     🔎 PHP
-  </div>
 
-
-  <div>
-    🔎 HTML<br>
-    🖼️ CSS<br>
-    🔎 JavaScript<br>
-    🔎 REACT<br>
-    🔎 ASTRO<br>
+    🔎 HTML
+    🖼️ CSS
+    🔎 JavaScript
+    🔎 REACT
+    🔎 ASTRO
     🖼️ Tailwind
-  </div>
 
-  <div>
-    🤖 AWS<br>
+    🤖 AWS
     🤖 BASH
-  </div>
 
-  <div>
-    ⚗️ SQL SERVER<br>
-    ⚗️ ORACLE SQL<br>
-    ⚗️ MYSQL<br>
+    ⚗️ SQL SERVER
+    ⚗️ ORACLE SQL
+    ⚗️ MYSQL
     ⚗️ SUPABASE
-  </div>
 
-  <hr style="width: 50%;">
-
-  <div>
-    ⚗️ GITHUB<br>
-    ⚗️ VIRTUALVOX
-  </div>
-</div>
-
-
-  <hr>
+  ~~~
+⚗️ GITHUB
+⚗️ VIRTUALVOX
+  ~~~
 
 
 ~~~
