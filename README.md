@@ -38,7 +38,6 @@
 
 
     🔎 PYTHON
-    🔎 DART
     🔎 PHP
 
     🔎 HTML
