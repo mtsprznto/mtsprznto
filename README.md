@@ -32,7 +32,7 @@
 
 
 
-![ban3](https://github.com/lllit/lllit/assets/106929604/d998019f-0cfb-4d88-ad30-6e47222d811b)
+
 
 ## 💻 Estudiando programacion :]
 
@@ -67,10 +67,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
 </div>
+
+![ban3](https://github.com/lllit/lllit/assets/106929604/d998019f-0cfb-4d88-ad30-6e47222d811b)
 
 ###
 
@@ -82,9 +82,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mtsprznto/mtsprznto/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
@@ -104,6 +101,5 @@
 📱 [Instagram](https://www.instagram.com/lllit_3/) 
 
 ![ban3](https://github.com/lllit/lllit/assets/106929604/79111736-04a2-49a5-aef2-b5485957ed85)
-<!--
-**lllit/lllit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
