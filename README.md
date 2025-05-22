@@ -72,23 +72,11 @@
 
 ![ban3](https://github.com/lllit/lllit/assets/106929604/d998019f-0cfb-4d88-ad30-6e47222d811b)
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mtsprznto/mtsprznto/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mtsprznto/mtsprznto/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mtsprznto/mtsprznto/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 
 
 
-
-
-
-## LINKSSSSSSssss 🌎:
+## LINKS🌎:
 
 💿 [Bandcamp](https://lllit3.bandcamp.com/) 
 
