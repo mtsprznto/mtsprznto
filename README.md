@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/@lllit">
   <img align="left" alt="LLLIT Youtube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://www.youtube.com/@lllit">
+<a href="https://lllit3.bandcamp.com/">
   <img align="left" alt="LLLIT Bandcamp" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bandcamp.svg" />
 </a>
 <a href="https://open.spotify.com/intl-es/artist/0oL7mgftYGFe5wWq0b9G4g?si=T4kfrAJfSOKdfSvczIIcbQ">
