@@ -1,11 +1,11 @@
-### Hola!👋👨‍💻🎨📽️
-
 
 ![bann](https://github.com/lllit/lllit/assets/106929604/110db89f-0a82-42f7-903b-a5028c4c5a52)
 
-<h1 align="center">Soy Matias👋👨‍💻🎨📽️</h1>
 
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+Mecatronico+..&hearts;++;Programador+de+Python;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source.](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Soy+Matias%F0%9F%91%8B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%8E%A8%F0%9F%93%BD%EF%B8%8F"></a>
+</p>
 
 <a href="https://www.instagram.com/lllit_3/">
   <img align="left" alt="LLLIT Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
