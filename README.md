@@ -78,15 +78,9 @@
 
 ## LINKS🌎:
 
-💿 [Bandcamp](https://lllit3.bandcamp.com/) 
+[💿 Bandcamp](https://lllit3.bandcamp.com/) &nbsp;&nbsp;|&nbsp;&nbsp;  [🔊 SoundCloud](https://soundcloud.com/lllit_3) &nbsp;&nbsp;|&nbsp;&nbsp;  [🎵 Spotify](https://open.spotify.com/intl-es/artist/0oL7mgftYGFe5wWq0b9G4g?si=T4kfrAJfSOKdfSvczIIcbQ) &nbsp;&nbsp;|&nbsp;&nbsp;  [📹 YouTube](https://www.youtube.com/@lllit) &nbsp;&nbsp;|&nbsp;&nbsp;  [📱 Instagram](https://www.instagram.com/lllit_3/)
 
-🎵 [Soundcloud](https://soundcloud.com/lllit_3) 
 
-🎵 [Spotify](https://open.spotify.com/intl-es/artist/0oL7mgftYGFe5wWq0b9G4g?si=T4kfrAJfSOKdfSvczIIcbQ) 
-
-📹 [Youtube](https://www.youtube.com/@lllit) 
-
-📱 [Instagram](https://www.instagram.com/lllit_3/) 
 
 ![ban3](https://github.com/lllit/lllit/assets/106929604/79111736-04a2-49a5-aef2-b5485957ed85)
 
