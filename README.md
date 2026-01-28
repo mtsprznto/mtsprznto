@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/mtsprznto"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+Mecatronico+..&hearts;++;Programador+de+Python;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source.](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Soy+Matias%F0%9F%91%8B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%8E%A8%F0%9F%93%BD%EF%B8%8F"></a>
+  <a href="https://github.com/mtsprznto"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+Mecatronico+..&hearts;++;Programador+de+Python;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source.](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=6000&width=1435&lines=...........................................................................Soy+Matias........................................"></a>
   <img align='right' src='https://i.giphy.com/xThuWaMQyZlsnkMRnW.webp' width='66'>
 </p>
 
@@ -17,34 +17,25 @@
 
 
 
-![ban](https://github.com/lllit/lllit/assets/106929604/db00501a-9989-4c60-9277-25a5d7f26f03)
 
 
+## Stack
 
-
-
-
-## 💻 Algunas tecnologias
-
-<p align="center">
+<p align="start">
   <img src="https://skillicons.dev/icons?i=python,js,docker,linux,wordpress,bash,github,git,vscode,mysql,mongodb,kali" />
 </p>
 <br/>
 
-![ban3](https://github.com/lllit/lllit/assets/106929604/d998019f-0cfb-4d88-ad30-6e47222d811b)
 
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsprznto&layout=compact&theme=dark&locale=es&title_color=f0db4f&text_color=ffffff" alt="Lenguajes más usados"/>
-</p>
 
 
-## 🌎 Links:
+## Links
 
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/matiaspereznauto/" target="_blank" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/50/f0db4f/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
