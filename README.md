@@ -36,8 +36,8 @@
 
 ## Sobre mí
 
-Soy Matías, Ingeniero Mecatrónico y programador de Python. Me interesa la Inteligencia
-Artificial y la visión por computadora, y creo proyectos open source bajo la señal LLLIT.
+Soy Matías, desarrollador de software y programador de Python. Me interesa la Inteligencia
+Artificial y la visión por computadora, y publico mis proyectos en GitHub bajo la señal LLLIT.
 El enlace TX↔RX está siempre abierto: conectemos por LinkedIn (matiaspereznauto).
 
 ## Stack
