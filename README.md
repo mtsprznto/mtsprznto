@@ -36,8 +36,9 @@
 
 ## Sobre mí
 
-Ingeniero Mecatrónico y programador de Python. Me interesa la inteligencia artificial,
-la visión por computadora y la creación de proyectos open source.
+Soy Matías, Ingeniero Mecatrónico y programador de Python. Me interesa la Inteligencia
+Artificial y la visión por computadora, y creo proyectos open source bajo la señal LLLIT.
+El enlace TX↔RX está siempre abierto: conectemos por LinkedIn (matiaspereznauto).
 
 ## Stack
 
